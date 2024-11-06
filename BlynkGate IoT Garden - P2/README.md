@@ -1,8 +1,8 @@
 
-# IoT Garden - P2: Thêm cảm biến ánh sáng và độ ẩm đất 
+# Blynk Gate IoT Garden - P2: Giám sát ánh sáng & độ ẩm đất IoT sử dụng Arduino Uno
 
 ## Mục tiêu
-bài học thứ 2 của loạt bài IOT Farm, bạn sẽ học cách mở rộng hệ thống vườn thông minh của mình bằng cách thêm hai loại cảm biến mới: cảm biến ánh sáng và cảm biến độ ẩm đất. Điều này sẽ giúp bạn giám sát và điều khiển hệ thống tưới nước một cách tự động dựa trên các điều kiện thực tế của đất và ánh sáng.
+Trong bài này bạn sẽ học cách mở rộng hệ thống vườn thông minh của mình bằng cách thêm hai loại cảm biến mới: cảm biến ánh sáng và cảm biến độ ẩm đất. Điều này sẽ giúp bạn giám sát và điều khiển hệ thống tưới nước một cách tự động dựa trên các điều kiện thực tế của đất và ánh sáng.
 
 ## Yêu cầu phần cứng
 - **Module BlynkGate**
