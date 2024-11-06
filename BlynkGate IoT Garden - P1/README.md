@@ -7,7 +7,7 @@ Dự án sử dụng **Arduino** đọc giá trị nhiệt độ và độ ẩm 
 
 Trong dự án này, chúng ta sẽ:
 - Sử dụng cảm biến **DHT11** để đo nhiệt độ và độ ẩm.
-- Kết nối **Arduino Uno** với **Blynk Cloud** thông qua module Wi-Fi **BlynkGate**.
+- Kết nối **Arduino** với **Blynk Cloud** thông qua module Wi-Fi **BlynkGate**.
 - Gửi dữ liệu cảm biến lên **Blynk Cloud** và hiển thị qua ứng dụng Blynk.
 
 ## Yêu cầu phần cứng
